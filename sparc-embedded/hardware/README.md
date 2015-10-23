@@ -1,0 +1,3 @@
+# Clicker Embedded Hardware
+
+Coming soon...
